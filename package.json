@@ -1,0 +1,13 @@
+{
+  "name": "chats-proxy-v2",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Xbox-inspired browser workspace and fixed-destination network diagnostics",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
